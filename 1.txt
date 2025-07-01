@@ -1,0 +1,19 @@
+Git 용어
+VCS, Repository
+내컴에 저장소 - git
+원격 저장소 - github, web service
+금고에 문서를 저장하는 행동 - Commit
+
+Local Repo 에서 Remote Repo. 로 업로드 - Push
+Remote Repo. 에서 Local Repo로 다운로드 - Pull
+
+git 목적
+- 버전 관리
+- 공동개발 충돌
+
+
+git init - 로컬 Repo 만들기
+
+git add 1.txt
+git commit -m "message"
+git log --oneline

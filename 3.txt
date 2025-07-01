@@ -14,15 +14,6 @@ git 목적
 
 git init - 로컬 Repo 만들기
 
-git add 1.txt    -- Staging Area 에 등록(staging)
-git add . -- 모든 수정 staging
+git add 1.txt
 git commit -m "message"
 git log --oneline
-git status
-
-git checkout <-- 이전 상태로 돌리기
-
-git branch sheep < -- sheep branch 만들기
-git merge sheep <-- sheep branch merge 하기
-git checkout sheep <-- sheep branch 로 바꾸기
-git branch -d sheep <-- sheep branch 지우기

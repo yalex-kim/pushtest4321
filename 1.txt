@@ -26,3 +26,10 @@ git branch sheep < -- sheep branch 만들기
 git merge sheep <-- sheep branch merge 하기
 git checkout sheep <-- sheep branch 로 바꾸기
 git branch -d sheep <-- sheep branch 지우기
+
+// Remote
+git push
+git fetch
+git pull
+git clone
+
